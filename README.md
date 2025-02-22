@@ -9,6 +9,7 @@
 - MVC design pattern
 - URLSession
 - JSONDecoder
+- [OpenWeather API](https://openweathermap.org/api)
 
 *This project was developed as part of The Complete iOS App Development Bootcamp by London App Brewery*
 
